@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_wedding"
+            android:title="La Boda" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Fotos" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_guests"
+            android:title="Invitados" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_transfer"
+            android:title="Depósito" />
+    </group>
+
+    <item android:title="Ajustes">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_settings_24dp"
+                android:title="Ajustes" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "631811612405",
+    "firebase_url": "https://invitarte-d8a43.firebaseio.com",
+    "project_id": "invitarte-d8a43",
+    "storage_bucket": "invitarte-d8a43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631811612405:android:54bc9a07ad5e03a9",
+        "android_client_info": {
+          "package_name": "com.rosety.invitarte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631811612405-c8agpfqor089ark8pphfv81h3dgs9a72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn7rRY26FzQ6QyfLl7ScKyQ-gHI0swQOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631811612405:android:44f14fa3f17d5001",
+        "android_client_info": {
+          "package_name": "com.rosety.invitarte.invitarte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631811612405-9iqhgc0qgas2u11p9261cpjnvgnsl71s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosety.invitarte.invitarte",
+            "certificate_hash": "29EA54145F99CA9E45EC823434CF2FB37C6B6954"
+          }
+        },
+        {
+          "client_id": "631811612405-c8agpfqor089ark8pphfv81h3dgs9a72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn7rRY26FzQ6QyfLl7ScKyQ-gHI0swQOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631811612405-c8agpfqor089ark8pphfv81h3dgs9a72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
